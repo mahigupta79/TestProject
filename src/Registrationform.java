@@ -70,6 +70,7 @@ public class Registrationform implements ActionListener {
 	}
 	public void actionEvent()
 	{
+		//add
 		//adding action listener to buttons
 		registerButton.addActionListener(this);
 		resetButton.addActionListener(this);
